@@ -22,6 +22,6 @@ public class Questao4 {
 
     f) 2,10, 12, 16, 17, 18, 19, ____
     sequência é formada por números que começam com a letra “d” em português:
-    dois, dez, doze, dezesseis, dezessete, dezoito, dezenove. O próximo número é duzentos1.
+    dois, dez, doze, dezesseis, dezessete, dezoito, dezenove. O próximo número é 200.
      */
 }
